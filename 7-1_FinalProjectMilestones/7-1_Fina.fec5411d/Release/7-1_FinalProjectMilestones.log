@@ -1,0 +1,13 @@
+﻿  SceneManager.cpp
+C:\Users\lives\OneDrive\Documents\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(223,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lives\OneDrive\Documents\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(378,27): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\lives\OneDrive\Documents\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(386,29): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\lives\OneDrive\Documents\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(402,28): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\lives\OneDrive\Documents\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(410,29): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\lives\OneDrive\Documents\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(418,30): warning C4305: '=': truncation from 'double' to 'float'
+  Generating code
+  1 of 769 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    10 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  7-1_FinalProjectMilestones.vcxproj -> C:\Users\lives\OneDrive\Documents\CS330Content\Projects\7-1_FinalProjectMilestones\Release\7-1_FinalProjectMilestones.exe
